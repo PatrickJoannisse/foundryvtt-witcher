@@ -1,0 +1,33 @@
+{
+  "name": "witcher",
+  "title": "Witcher TTRPG",
+  "description": "The Witcher TTRPG system for Foundry VTT, currently in development",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.6.5",
+  "templateVersion": 2,
+  "author": "Patrick Joannisse",
+  "scripts": [],
+  "esmodules": [
+    "module/witcher.js"
+  ],
+  "styles": [
+    "css/witcher.css"
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "initiative": "1d10",
+  "gridDistance": 1,
+  "gridUnits": "m",
+  "primaryTokenAttribute": "combatstats.vigor",
+  "secondaryTokenAttribute": "combatstats.stamina",
+  "url": "https://github.com/PatrickJoannisse/foundryvtt-witcher/blob/stable/README.md",
+  "manifest": "https://github.com/PatrickJoannisse/foundryvtt-witcher/blob/stable/system.json",
+  "download": "https://github.com/PatrickJoannisse/foundryvtt-witcher/archive/stable.zip"
+}
