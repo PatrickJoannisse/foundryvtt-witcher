@@ -1,9 +1,10 @@
 {
   "name": "witcher",
-  "title": "Witcher TTRPG",
-  "description": "The Witcher TTRPG system for Foundry VTT, currently in development",
+  "title": "Witcher Pen and Paper RPG",
+  "description": "The Witcher Pen and Paper RPG system for Foundry VTT, currently in development",
   "version": "0.0.1",
   "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.6.6",
   "templateVersion": 2,
   "author": "Patrick Joannisse",
   "scripts": [],
