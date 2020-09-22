@@ -7,5 +7,5 @@ Currently in development.
 Copy paste that manifest url:
 
 ```
-    https://github.com/PatrickJoannisse/foundryvtt-witcher/blob/stable/system.json
+https://github.com/PatrickJoannisse/foundryvtt-witcher/blob/stable/system.json
 ```
