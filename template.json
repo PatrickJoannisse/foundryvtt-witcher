@@ -1,5 +1,39 @@
 {
-    "Actor": {},
+    "Actor": {
+        "types": [
+            "character"
+        ],
+        "templates":{
+            "common":{
+                "name": ""
+            }
+        },
+        "character":{
+            "templates": ["common"],
+            "bio": "",
+            "statistics":{
+                "int": 0,
+                "ref": 0,
+                "dex": 0,
+                "body": 0,
+                "spd": 0,
+                "emp": 0,
+                "cra": 0,
+                "will": 0,
+                "luck": 0
+            },
+            "derived":{
+                "stun":0,
+                "run":0,
+                "leap":0,
+                "sta":0,
+                "enc":0,
+                "rec":0,
+                "hp":0,
+                "vigor":0
+            }
+        }
+    },
     "Item":{
         "types": [
             "weapon"

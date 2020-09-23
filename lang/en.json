@@ -1,6 +1,10 @@
 {
     "witcher":{
         "title": "Witcher Pen and paper Game system",
+        "skills": "Skills",
+        "inventory": "Inventory",
+        "magic": "Magic",
+        "notes": "Notes",
         "weapon":{
             "damage": "Damage",
             "accuracy": "Accuracy",
