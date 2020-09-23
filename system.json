@@ -9,7 +9,7 @@
   "author": "Patrick Joannisse",
   "scripts": [],
   "esmodules": [
-    "module/witcher.js"
+    "witcher.js"
   ],
   "styles": [
     "css/witcher.css"

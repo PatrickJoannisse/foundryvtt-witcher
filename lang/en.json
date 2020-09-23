@@ -1,3 +1,18 @@
 {
-    "Witcher.title": "Witcher Pen and paper Game system"
+    "witcher":{
+        "title": "Witcher Pen and paper Game system",
+        "weapon":{
+            "damage": "Damage",
+            "accuracy": "Accuracy",
+            "weaponType": "Weapon Type",
+            "slashing": "Slashing",
+            "shortSlashing": "S",
+            "piercing": "Piercing",
+            "shortPiercing": "P",
+            "bludgeoning": "Bludgeoning",
+            "shortBludgeoning": "B",
+            "elemental": "Elemental",
+            "shortElemental": "E"
+        }
+    }
 }
